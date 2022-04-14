@@ -2,9 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import requests
 import streamlit as st
-import numpy as np
-from joblib import load
-from sklearn import datasets
 
 
 API_URL="https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=cad&days=90&interval=daily"
