@@ -1,0 +1,2 @@
+doqu==0.28.2
+mysqlclient==2.1.0
